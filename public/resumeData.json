@@ -6,7 +6,7 @@
     "bio":"I'm a full stack web developer with 5 years experience in React and Nodejs development. I'm also interested in other JavaScript frameworks like Angular, Vue, Ember. I'm looking for a project to work on. I love creating user interfaces for web applications. I enjoy coding because I get to solve problems using my skills, and I get to work with people who are passionate about the same things as me.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "radhweneamri9631@gmail.com",
-    "phone": "+216 26 794 992",
+    "phone": ["+216 26 794 992", "+216 23 901 324"],
     "github":"https://github.com/amRadhwen",
     "project":"https://github.com/amRadhwen/amradhwenresume",
     "address":{
@@ -15,7 +15,7 @@
       "state":"Jendouba",
       "zip": "8134"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "https://github.com/amRadhwen",
     "resumedownload":"cv.pdf",
     "social":[
       {
