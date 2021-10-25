@@ -9,7 +9,13 @@ class Header extends Component {
     const project = this.props.data.project;
     const github = this.props.data.github;
     const name = this.props.data.name;
-    const description = this.props.data.description;
+    const description = this.props.data.description.map(line=>{
+      return(
+        <h3>
+          <span>{line}</span><br/>
+        </h3>
+      )
+    })
 
     return (
       <header id="home">
@@ -62,7 +68,7 @@ class Header extends Component {
               <h1 className="responsive-headline">{name}</h1>
             </Fade>
             <Fade bottom duration={1200}>
-              <h3>{description}.</h3>
+              {description}
             </Fade>
             <hr />
             <Fade bottom duration={2000}>

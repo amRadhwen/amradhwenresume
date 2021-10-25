@@ -1,10 +1,10 @@
 {
   "main": {
     "name":"Amri Radhwen",
-    "description":"Hello, i am a full stack web developer specialized in MERN stack. I am also interested in other programming languages including Python, java, Php. This project is a resume template that can be used as the project home page or resume page",
+    "description":["Hello, i am a full stack web developer specialized in MERN stack.", "I am also interested in other javascript stacks (MEAN, MEVN).", "I have also a basic knowledge in other programming languages (Python, Java, Php...etc) and i made many project."],
     "image":"profilepic.jpeg",
     "bio":"I'm a full stack web developer with 5 years experience in React and Nodejs development. I'm also interested in other JavaScript frameworks like Angular, Vue, Ember. I'm looking for a project to work on. I love creating user interfaces for web applications. I enjoy coding because I get to solve problems using my skills, and I get to work with people who are passionate about the same things as me.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"Now you can contact me, just fill in this form: ",
     "email": "radhweneamri9631@gmail.com",
     "phone": ["+216 26 794 992", "+216 23 901 324"],
     "github":"https://github.com/amRadhwen",
@@ -46,19 +46,19 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
         "school":"Higher institute of technological studies of Beja",
         "degree":"Applied licence in computer science",
         "graduated":"juin 2021",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":""
       },
       {
         "school":"Ain Draham high school",
         "degree":"Bachelor's degree in experimental sciences",
         "graduated":"juin 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":""
       }
     ],
     "internships":[
@@ -83,7 +83,19 @@
     ],
     "skills":[
       {
-        "name":"Python",
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"85%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"90%"
+      },
+      {
+        "name":"AngularJs",
         "level":"60%"
       },
       {
@@ -91,24 +103,16 @@
         "level":"55%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"PHP",
-        "level":"80%"
-      },
-      {
-        "name":"Swift",
+        "name":"Python",
         "level":"50%"
       },
       {
         "name":"JAVA",
-        "level":"80%"
+        "level":"40%"
+      },
+      {
+        "name":"PHP",
+        "level":"60%"
       }
     ]
   },
